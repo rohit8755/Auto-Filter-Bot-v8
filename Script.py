@@ -5,18 +5,18 @@ class script(object):
 𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗌𝗂𝗆𝗉𝗅𝖾 𝗉𝗋𝖾 - 𝖿𝗎𝗇𝖼𝗍𝗂𝗈𝗇𝖾𝖽 𝖺𝗎𝗍𝗈𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍
 𝗜𝘁𝘀 𝗦𝗶𝗺𝗽𝗹𝗲 𝗧𝗼 𝗨𝘀𝗲 𝗠𝗲..☺️,𝗝𝘂𝘀𝘁 𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 𝗔𝘀 𝗔𝗱𝗺𝗶𝗻,𝗧𝗵𝗮𝘁𝘀 𝗔𝗹𝗹 𝗜 𝗪𝗶𝗹𝗹 𝗣𝗿𝗼𝘃𝗶𝗱𝗲 𝗠𝗼𝘃𝗶𝗲𝘀 𝗧𝗵𝗲𝗿𝗲..🥰
 
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href=https://t.me/MagnusTG>ᴍᴀɢɴᴜs ᴛɢ 🇮🇳</a>"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
-ʜᴇʟᴘ ᴍᴏᴅᴜʟᴇ 🚩."""
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href=https://t.me/MagnusTG>𝖬ᴀɢɴᴜs ᴛɢ 🇮🇳</a>"""
+    HELP_TXT = """𝖧ᴇʏ {}
+ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʜᴇʟᴘ ᴍᴏᴅᴜʟᴇ 🚩."""
     ABOUT_TXT = """➪ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-➪ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MagnusTG>Mᴀɢɴᴜs ᴛɢ 🇮🇳</a>
-➪ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href=https://docs.pyrogram.org/>ᴘʏʀᴏɢʀᴀᴍ</a>
-➪ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴: <a href=https://t.me/hagayhwvwhtf>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-➪ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 : ᴇᴠᴇʀʏ ᴏɴᴇ ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ
-➪ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: ᴘʏᴛʜᴏɴ 3
-➪ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href=https://www.mongodb.com>ᴍᴏɴɢᴏ ᴅʙ</a>
-➪ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <a href=https://dashboard.heroku.com/>ʜᴇʀᴏᴋᴜ</a>
-➪ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ ʙᴇᴛᴀ ]
+➪ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MagnusTG>𝖬ᴀɢɴᴜs ᴛɢ 🇮🇳</a>
+➪ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href=https://docs.pyrogram.org/>𝖯ʏʀᴏɢʀᴀᴍ</a>
+➪ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴: <a href=https://t.me/hagayhwvwhtf>𝖢ʟɪᴄᴋ ʜᴇʀᴇ</a>
+➪ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 : 𝖤ᴠᴇʀʏ ᴏɴᴇ ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ
+➪ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝖯ʏᴛʜᴏɴ 3
+➪ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href=https://www.mongodb.com>𝖬ᴏɴɢᴏ ᴅʙ</a>
+➪ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <a href=https://dashboard.heroku.com/>𝖧ᴇʀᴏᴋᴜ</a>
+➪ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ 𝖡ᴇᴛᴀ ]
                                                                                                                                                                                          
 🔖 𝑸𝒖𝒐𝒕𝒆: ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും"""
     SOURCE_TXT = """<b>NOTE:</b>
@@ -251,10 +251,10 @@ This module only works for my admins
 • /broadcast - to broadcast a message to all users."""
 
     STATUS_TXT = """<b>Total Files:</b> <code>{}</code>
-<b>Total Users:</b> <code>{}</code>
-<b>Total Chats:</b> <code>{}</code>
-<b>Used Storage:</b> <code>{}</code> MiB
-<b>Free Storage:</b> <code>{}</code> MiB""" 
+<b>𝖳ᴏᴛᴀʟ ᴜsᴇʀs:</b> <code>{}</code>
+<b>𝖳ᴏᴛᴀʟ ᴄʜᴀᴛs:</b> <code>{}</code>
+<b>𝖴sᴇᴅ sᴛᴏʀᴀɢᴇ:</b> <code>{}</code> MiB
+<b>𝖥ʀᴇᴇ sᴛᴏʀᴀɢᴇ:</b> <code>{}</code> MiB""" 
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
