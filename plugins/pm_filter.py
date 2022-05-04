@@ -455,31 +455,31 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴍɪɴ ', callback_data='admin'),
-            InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛ ', callback_data='coct'),
-            InlineKeyboardButton('ғɪʟᴛᴇʀ ', callback_data='auto_manual')
+            InlineKeyboardButton('𝖠ᴅᴍɪɴ ', callback_data='admin'),
+            InlineKeyboardButton('𝖢ᴏɴɴᴇᴄᴛ ', callback_data='coct'),
+            InlineKeyboardButton('𝖥ɪʟᴛᴇʀ ', callback_data='auto_manual')
             ],[
-            InlineKeyboardButton('ɢᴛʀᴀɴs ', callback_data='gtrans'),
-            InlineKeyboardButton('ɪɴғᴏ ', callback_data='info'),
-            InlineKeyboardButton('ᴘᴀsᴛᴇ ', callback_data='paste')
+            InlineKeyboardButton('𝖦ᴛʀᴀɴs ', callback_data='gtrans'),
+            InlineKeyboardButton('𝖨ɴғᴏ ', callback_data='info'),
+            InlineKeyboardButton('𝖯ᴀsᴛᴇ ', callback_data='paste')
             ],[
-            InlineKeyboardButton('ᴘᴜʀɢᴇ ', callback_data='purge'),
-            InlineKeyboardButton('ʀᴇsᴛʀɪᴄᴛ ', callback_data='restric'),
-            InlineKeyboardButton('sᴇᴀʀᴄʜ ', callback_data='search')
+            InlineKeyboardButton('𝖯ᴜʀɢᴇ ', callback_data='purge'),
+            InlineKeyboardButton('𝖱ᴇsᴛʀɪᴄᴛ ', callback_data='restric'),
+            InlineKeyboardButton('𝖲ᴇᴀʀᴄʜ ', callback_data='search')
             ],[
-            InlineKeyboardButton('ᴛɢʀᴀᴘʜ ', callback_data='tgraph'),
-            InlineKeyboardButton('ᴡʜᴏɪs ', callback_data='whois'),
-            InlineKeyboardButton('ғᴜɴ ', callback_data='fun')
+            InlineKeyboardButton('𝖳ɢʀᴀᴘʜ ', callback_data='tgraph'),
+            InlineKeyboardButton('𝖶ʜᴏɪs ', callback_data='whois'),
+            InlineKeyboardButton('𝖥ᴜɴ ', callback_data='fun')
             ],[
-            InlineKeyboardButton('ᴀʟɪᴠᴇ ', callback_data='alive'),
-            InlineKeyboardButton('sᴏɴɢ ', callback_data='song'),
-            InlineKeyboardButton('ᴊsᴏɴ ', callback_data='json')
+            InlineKeyboardButton('𝖠ʟɪᴠᴇ ', callback_data='alive'),
+            InlineKeyboardButton('𝖲ᴏɴɢ ', callback_data='song'),
+            InlineKeyboardButton('𝖩sᴏɴ ', callback_data='json')
             ],[
-            InlineKeyboardButton('ᴘɪɴ ', callback_data='pin'),
-            InlineKeyboardButton('ᴄᴏʀᴏɴᴀ ', callback_data='corona'),
-            InlineKeyboardButton('sᴛɪᴄᴋᴇʀ ', callback_data='stickerid')
+            InlineKeyboardButton('𝖯ɪɴ ', callback_data='pin'),
+            InlineKeyboardButton('𝖢ᴏʀᴏɴᴀ ', callback_data='corona'),
+            InlineKeyboardButton('𝖲ᴛɪᴄᴋᴇʀ ', callback_data='stickerid')
             ],[
-            InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start')
+            InlineKeyboardButton('⬅️ ʙᴀᴄᴋ', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
