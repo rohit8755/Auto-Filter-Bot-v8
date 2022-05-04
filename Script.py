@@ -11,7 +11,7 @@ class script(object):
 ➪ 𝖢ʀᴇᴏᴛᴏʀ: <a href=https://t.me/MagnusTG>𝖬ᴀɢɴᴜs ᴛɢ 🇮🇳</a>
 ➪ 𝖫ɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org/>𝖯ʏʀᴏɢʀᴀᴍ</a>
 ➪ 𝖲ᴏᴜʀᴄᴇ 𝖢ᴏᴅᴇ: <a href=https://t.me/hagayhwvwhtf>𝖢ʟɪᴄᴋ ʜᴇʀᴇ</a>
-➪ 𝖢ʀᴇsɪᴛs : 𝖤ᴠᴇʀʏ ᴏɴᴇ ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ
+➪ 𝖢ʀᴇᴅɪᴛs : 𝖤ᴠᴇʀʏ ᴏɴᴇ ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ
 ➪ 𝖯ʏᴛʜᴏɴ: 𝖯ʏᴛʜᴏɴ 3
 ➪ 𝖣ᴀᴛᴀ 𝖡ᴀsᴇ: <a href=https://www.mongodb.com>𝖬ᴏɴɢᴏ ᴅʙ</a>
 ➪ 𝖡ᴏᴛ 𝖲ᴇʀᴠᴇʀ: <a href=https://dashboard.heroku.com/>𝖧ᴇʀᴏᴋᴜ</a>
