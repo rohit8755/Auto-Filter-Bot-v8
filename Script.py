@@ -24,7 +24,7 @@ class script(object):
 - Source - https://t.me/MyGithubSorceCode      
 
 <b>DEVS:</b>
-- <a href=https://t.me/DARKWEBLOAD>ᎮᏒᎧᎦᏋᏕᎧᏒ</a>"""
+- <a href=https://t.me/MagnusTG>Mᴀɢɴᴜs ᴛɢ 🇮🇳</a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
