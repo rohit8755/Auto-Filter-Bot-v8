@@ -6,17 +6,16 @@ class script(object):
 𝗜𝘁𝘀 𝗦𝗶𝗺𝗽𝗹𝗲 𝗧𝗼 𝗨𝘀𝗲 𝗠𝗲..☺️,𝗝𝘂𝘀𝘁 𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 𝗔𝘀 𝗔𝗱𝗺𝗶𝗻,𝗧𝗵𝗮𝘁𝘀 𝗔𝗹𝗹 𝗜 𝗪𝗶𝗹𝗹 𝗣𝗿𝗼𝘃𝗶𝗱𝗲 𝗠𝗼𝘃𝗶𝗲𝘀 𝗧𝗵𝗲𝗿𝗲..🥰
 
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href=https://t.me/MagnusTG>𝖬ᴀɢɴᴜs ᴛɢ 🇮🇳</a>"""
-    HELP_TXT = """𝖧ᴇʏ {}
-ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʜᴇʟᴘ ᴍᴏᴅᴜʟᴇ 🚩."""
-    ABOUT_TXT = """➪ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-➪ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MagnusTG>𝖬ᴀɢɴᴜs ᴛɢ 🇮🇳</a>
-➪ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href=https://docs.pyrogram.org/>𝖯ʏʀᴏɢʀᴀᴍ</a>
-➪ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴: <a href=https://t.me/hagayhwvwhtf>𝖢ʟɪᴄᴋ ʜᴇʀᴇ</a>
-➪ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 : 𝖤ᴠᴇʀʏ ᴏɴᴇ ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ
-➪ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝖯ʏᴛʜᴏɴ 3
-➪ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href=https://www.mongodb.com>𝖬ᴏɴɢᴏ ᴅʙ</a>
-➪ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <a href=https://dashboard.heroku.com/>𝖧ᴇʀᴏᴋᴜ</a>
-➪ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ 𝖡ᴇᴛᴀ ]
+    HELP_TXT = """ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʜᴇʟᴘ ᴍᴏᴅᴜʟᴇ 🚩"""
+    ABOUT_TXT = """➪ 𝖬ʏ 𝖭ᴀᴍᴇ: {}
+➪ 𝖢ʀᴇᴏᴛᴏʀ: <a href=https://t.me/MagnusTG>𝖬ᴀɢɴᴜs ᴛɢ 🇮🇳</a>
+➪ 𝖫ɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org/>𝖯ʏʀᴏɢʀᴀᴍ</a>
+➪ 𝖲ᴏᴜʀᴄᴇ 𝖢ᴏᴅᴇ: <a href=https://t.me/hagayhwvwhtf>𝖢ʟɪᴄᴋ ʜᴇʀᴇ</a>
+➪ 𝖢ʀᴇsɪᴛs : 𝖤ᴠᴇʀʏ ᴏɴᴇ ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ
+➪ 𝖯ʏᴛʜᴏɴ: 𝖯ʏᴛʜᴏɴ 3
+➪ 𝖣ᴀᴛᴀ 𝖡ᴀsᴇ: <a href=https://www.mongodb.com>𝖬ᴏɴɢᴏ ᴅʙ</a>
+➪ 𝖡ᴏᴛ 𝖲ᴇʀᴠᴇʀ: <a href=https://dashboard.heroku.com/>𝖧ᴇʀᴏᴋᴜ</a>
+➪ 𝖡ᴜʟɪᴅ 𝖲ᴛᴀᴛᴜs: v2.0.1 [ 𝖡ᴇᴛᴀ ]
                                                                                                                                                                                          
 🔖 𝑸𝒖𝒐𝒕𝒆: ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും"""
     SOURCE_TXT = """<b>NOTE:</b>
@@ -251,7 +250,7 @@ This module only works for my admins
 • /broadcast - to broadcast a message to all users."""
 
     STATUS_TXT = """<b>Total Files:</b> <code>{}</code>
-<b>𝖳ᴏᴛᴀʟ ᴜsᴇʀs:</b> <code>{}</code>
+<b>𝖳ᴏᴛᴀʟ 𝖥ɪʟᴇs:</b> <code>{}</code>
 <b>𝖳ᴏᴛᴀʟ ᴄʜᴀᴛs:</b> <code>{}</code>
 <b>𝖴sᴇᴅ sᴛᴏʀᴀɢᴇ:</b> <code>{}</code> MiB
 <b>𝖥ʀᴇᴇ sᴛᴏʀᴀɢᴇ:</b> <code>{}</code> MiB""" 
