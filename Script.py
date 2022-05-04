@@ -250,6 +250,7 @@ This module only works for my admins
 • /broadcast - to broadcast a message to all users."""
 
     STATUS_TXT = """<b>𝖳ᴏᴛᴀʟ 𝖥ɪʟᴇs:</b> <code>{}</code>
+<b>𝖳ᴏᴛᴀʟ 𝖴sᴇʀs:</b> <code>{}</code>
 <b>𝖳ᴏᴛᴀʟ ᴄʜᴀᴛs:</b> <code>{}</code>
 <b>𝖴sᴇᴅ sᴛᴏʀᴀɢᴇ:</b> <code>{}</code> MiB
 <b>𝖥ʀᴇᴇ sᴛᴏʀᴀɢᴇ:</b> <code>{}</code> MiB""" 
